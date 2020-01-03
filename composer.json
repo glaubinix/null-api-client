@@ -1,6 +1,0 @@
-{
-  "name": "glaubinix/null-api-client",
-  "require": {
-    "php-http/client-implementation": "^1.0"
-  }
-}
